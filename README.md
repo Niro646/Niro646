@@ -18,6 +18,8 @@
 
 ⚡ Fun fact **Your brain burns 400-500 calories a day. That’s about a fifth of your total energy requirements.**
 
+</div>
+
 
 
 ### Hi there 👋
