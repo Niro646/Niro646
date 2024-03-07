@@ -6,6 +6,19 @@
 
 <h3 align="center">A passionate software developer from Israel </h3>
 
+<br/>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **a gym app**
+ 
+ 🌱 I’m currently learning **React, Next.js,**
+
+💬 Ask me about **Node.js, Express, MongoDB... or anything**
+
+⚡ Fun fact **Your brain burns 400-500 calories a day. That’s about a fifth of your total energy requirements.**
+
+
 
 ### Hi there 👋
 
