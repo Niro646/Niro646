@@ -65,7 +65,7 @@
 
 <br/>
 
-<h4 align="center">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=+Send+me+a+message+on+Linkedin!;+I'm+always+down+to+collab+:);" />
-</h4>
+</h1>
 
