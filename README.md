@@ -49,6 +49,7 @@
 </div>
 
 <hr/>
+  [![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app?user=Niro646&theme=dark)](https://git.io/streak-stats)
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
