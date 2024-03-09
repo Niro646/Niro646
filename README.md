@@ -35,7 +35,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,npm,react,nodejs,express,mongodb,postman,gulp,git,github,vscode" /><br>
     <img src="https://skillicons.dev/icons?i=python,c,cpp,java" /><br>
-    <img src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" /><br>
+    <img width="50" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira"/><br>
 </div>
 
 <br/>
